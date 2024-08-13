@@ -1,7 +1,5 @@
 nginx
-mysql
-mysql:5.6.51
-azul/zulu-openjdk:17.0.11-jdk
+sickcodes/docker-eyeos:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
